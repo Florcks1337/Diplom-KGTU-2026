@@ -1,4 +1,4 @@
-# VK Price Alert Bot 🛍
+# VK Price Alert Bot 
 
 Бот ВКонтакте для отслеживания цен на **OZON** и **Wildberries**.
 Присылает уведомление, когда цена на товар падает.
@@ -67,8 +67,8 @@ python bot.py
 
 | Маркетплейс | Метод | Стабильность |
 |-------------|-------|--------------|
-| **Wildberries** | Публичный API | ⭐⭐⭐ Отлично |
-| **OZON** | Web-scraping | ⭐⭐ Хорошо* |
+| **Wildberries** | Публичный API | Отлично |
+| **OZON** | Web-scraping |  Хорошо |
 
 *OZON может блокировать запросы. При проблемах используйте прокси.
 
@@ -112,15 +112,3 @@ sudo systemctl enable vk-price-bot
 sudo systemctl start vk-price-bot
 sudo systemctl status vk-price-bot
 ```
-
----
-
-## Частые вопросы
-
-**OZON не возвращает цену** — OZON защищается от парсинга.
-Решения: добавьте задержки, смените User-Agent, используйте прокси.
-
-**Бот не отвечает** — Проверьте, что Long Poll API включён в настройках группы.
-
-**Хочу добавить другой маркетплейс** — создайте класс в `parsers.py`
-по образцу `WildberriesParser`, добавьте его в словарь `parsers` в `bot.py`.
