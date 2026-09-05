@@ -1,0 +1,168 @@
+2026-06-16 04:02:38,480 [INFO] База данных инициализирована: prices.db
+2026-06-16 04:02:38,521 [INFO] Запуск VK Price Bot...
+2026-06-16 04:02:38,910 [INFO] Планировщик запущен (каждые 30 минут)
+2026-06-16 04:02:38,912 [INFO] Бот готов. Ожидаю сообщения...
+2026-06-16 04:05:16,086 [INFO] База данных инициализирована: prices.db
+2026-06-16 04:05:16,088 [INFO] Запуск VK Price Bot...
+2026-06-16 04:05:16,224 [INFO] Планировщик запущен (каждые 30 минут)
+2026-06-16 04:05:16,226 [INFO] Бот готов. Ожидаю сообщения...
+2026-06-16 04:05:32,586 [ERROR] OZON fetch error: 403 Client Error: Forbidden for url: https://www.ozon.ru/product/konstruktor-lego-speed-champions-76901-toyota-gr-supra-1732387102/?at=Y7tjqo86QUl0YvR9UB870rzio1QDonfP3YkjnCG4WnXk&__rr=1
+2026-06-16 04:05:48,742 [ERROR] OZON fetch error: 403 Client Error: Forbidden for url: https://www.ozon.ru/product/konstruktor-lego-speed-champions-76901-toyota-gr-supra-1732387102/?from=share_web&perehod=smm_share_button_productpage_link
+2026-06-16 04:07:14,552 [ERROR] WB API error: 403 Client Error: Forbidden for url: https://card.wb.ru/cards/v1/detail?appType=1&curr=rub&dest=-1257786&nm=578097171
+2026-06-16 04:08:38,642 [ERROR] OZON fetch error: 403 Client Error: Forbidden for url: https://www.ozon.ru/product/...
+2026-06-16 04:09:22,764 [ERROR] OZON fetch error: 403 Client Error: Forbidden for url: https://www.ozon.ru/product/100-genuine-my-hero-academia-mirko-moya-geroyskaya-akademiya-43cm-3450880256/?from=share_web&perehod=smm_share_button_productpage_link
+2026-06-16 04:10:55,462 [INFO] База данных инициализирована: prices.db
+2026-06-16 04:10:55,465 [INFO] Запуск VK Price Bot...
+2026-06-16 04:10:55,842 [INFO] Планировщик запущен (каждые 30 минут)
+2026-06-16 04:10:55,844 [INFO] Бот готов. Ожидаю сообщения...
+2026-06-16 04:11:12,286 [ERROR] OZON fetch error: 403 Client Error: Forbidden for url: https://ozon.ru/t/lwefFZp
+2026-06-16 04:12:54,373 [INFO] База данных инициализирована: prices.db
+2026-06-16 04:12:54,376 [INFO] Запуск VK Price Bot...
+2026-06-16 04:12:54,812 [INFO] Планировщик запущен (каждые 30 минут)
+2026-06-16 04:12:54,866 [INFO] Бот готов. Ожидаю сообщения...
+2026-06-16 04:13:04,818 [ERROR] OZON fetch error: 403 Client Error: Forbidden for url: https://ozon.ru/t/lwefFZp
+2026-06-16 04:13:25,597 [ERROR] OZON fetch error: 403 Client Error: Forbidden for url: https://www.ozon.ru/product/100-genuine-my-hero-academia-mirko-moya-geroyskaya-akademiya-43cm-3450880256/?at=ywtAwmnygckjkYKjFVLrxA9UmRKlL0S4MDRMlC55Kpom&__rr=1
+2026-06-16 04:15:33,256 [INFO] База данных инициализирована: prices.db
+2026-06-16 04:15:33,258 [INFO] Запуск VK Price Bot...
+2026-06-16 04:15:33,634 [INFO] Планировщик запущен (каждые 30 минут)
+2026-06-16 04:15:33,635 [INFO] Бот готов. Ожидаю сообщения...
+2026-06-16 04:15:43,449 [ERROR] OZON API error: 403 Client Error: Forbidden for url: https://api.ozon.ru/composer-api.bx/page/json/v2?url=%2Fproduct%2F3450880256%2F&__rr=1
+2026-06-16 04:22:11,591 [INFO] База данных инициализирована: prices.db
+2026-06-16 04:22:11,646 [INFO] Запуск VK Price Bot...
+2026-06-16 04:22:12,029 [INFO] Планировщик запущен (каждые 30 минут)
+2026-06-16 04:22:12,031 [INFO] Бот готов. Ожидаю сообщения...
+2026-06-16 04:22:23,180 [INFO] OZON: запускаю браузер для https://www.ozon.ru/product/100-genuine-my-hero-academia-mirko-moya-geroyskaya-akademiya-43cm-3450880256/
+2026-06-16 04:22:23,236 [INFO] ====== WebDriver manager ======
+2026-06-16 04:22:24,213 [INFO] Get LATEST chromedriver version for google-chrome
+2026-06-16 04:22:24,537 [INFO] There is no [win64] chromedriver "149.0.7827.115" for browser google-chrome "149.0.7827" in cache
+2026-06-16 04:22:25,003 [INFO] There is no [win64] chromedriver "149.0.7827.115" for browser google-chrome "149.0.7827" in cache
+2026-06-16 04:22:25,004 [INFO] Get LATEST chromedriver version for google-chrome
+2026-06-16 04:22:25,649 [INFO] WebDriver version 149.0.7827.115 selected
+2026-06-16 04:22:25,653 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.115/win64/chromedriver-win64.zip
+2026-06-16 04:22:25,654 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.115/win64/chromedriver-win64.zip
+2026-06-16 04:22:26,081 [INFO] Driver downloading response is 200
+2026-06-16 04:22:28,651 [INFO] Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\chromedriver\win64\149.0.7827.115]
+2026-06-16 04:22:51,404 [WARNING] OZON: страница не загрузилась за 20 секунд: https://www.ozon.ru/product/100-genuine-my-hero-academia-mirko-moya-geroyskaya-akademiya-43cm-3450880256/
+2026-06-16 04:22:55,002 [WARNING] OZON: не удалось найти h1 на странице
+2026-06-16 04:22:55,123 [WARNING] OZON: цена не найдена, URL: https://www.ozon.ru/product/100-genuine-my-hero-academia-mirko-moya-geroyskaya-akademiya-43cm-3450880256/?__rr=1
+2026-06-16 04:24:21,753 [INFO] База данных инициализирована: prices.db
+2026-06-16 04:24:21,810 [INFO] Запуск VK Price Bot...
+2026-06-16 04:24:22,175 [INFO] Планировщик запущен (каждые 30 минут)
+2026-06-16 04:24:22,177 [INFO] Бот готов. Ожидаю сообщения...
+2026-06-16 04:24:34,707 [INFO] OZON: запускаю браузер для https://www.ozon.ru/product/100-genuine-my-hero-academia-mirko-moya-geroyskaya-akademiya-43cm-3450880256/
+2026-06-16 04:24:34,767 [INFO] ====== WebDriver manager ======
+2026-06-16 04:24:35,302 [INFO] Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 04:24:57,859 [WARNING] OZON: страница не загрузилась за 20 секунд: https://www.ozon.ru/product/100-genuine-my-hero-academia-mirko-moya-geroyskaya-akademiya-43cm-3450880256/
+2026-06-16 04:25:00,843 [WARNING] OZON: не удалось найти h1 на странице
+2026-06-16 04:25:00,949 [WARNING] OZON: цена не найдена, URL: https://www.ozon.ru/product/100-genuine-my-hero-academia-mirko-moya-geroyskaya-akademiya-43cm-3450880256/?__rr=1
+2026-06-16 04:25:22,333 [INFO] OZON: запускаю браузер для https://ozon.ru/t/lwefFZp/
+2026-06-16 04:25:22,334 [INFO] ====== WebDriver manager ======
+2026-06-16 04:25:22,759 [INFO] Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 04:25:45,231 [WARNING] OZON: страница не загрузилась за 20 секунд: https://ozon.ru/t/lwefFZp/
+2026-06-16 04:25:49,115 [WARNING] OZON: не удалось найти h1 на странице
+2026-06-16 04:25:49,199 [WARNING] OZON: цена не найдена, URL: https://ozon.ru/t/lwefFZp/
+2026-06-16 04:27:27,915 [INFO] База данных инициализирована: prices.db
+2026-06-16 04:27:27,918 [INFO] Запуск VK Price Bot...
+2026-06-16 04:27:28,078 [INFO] Планировщик запущен (каждые 30 минут)
+2026-06-16 04:27:28,080 [INFO] Бот готов. Ожидаю сообщения...
+2026-06-16 04:27:36,291 [INFO] OZON: запускаю браузер для https://ozon.ru/t/lwefFZp/
+2026-06-16 04:27:36,293 [INFO] ====== WebDriver manager ======
+2026-06-16 04:27:36,766 [INFO] Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 04:27:43,381 [INFO] OZON: 100% Genuine My Hero Academia-Mirko моя геройская  — 6581 ₽
+2026-06-16 04:29:07,045 [ERROR] WB: ошибка запроса к API: 403 Client Error: Forbidden for url: https://card.wb.ru/cards/v1/detail?appType=1&curr=rub&dest=-1257786&nm=577838676
+2026-06-16 14:30:14,412 [INFO] База данных инициализирована: prices.db
+2026-06-16 14:30:14,414 [INFO] Запуск VK Price Bot...
+2026-06-16 14:30:14,620 [INFO] Планировщик запущен (каждые 30 минут)
+2026-06-16 14:30:14,645 [INFO] Бот готов. Ожидаю сообщения...
+2026-06-16 14:30:38,322 [ERROR] WB: ошибка запроса к API: 403 Client Error: Forbidden for url: https://card.wb.ru/cards/v1/detail?appType=1&curr=rub&dest=-1257786&nm=577838676
+2026-06-16 14:35:44,481 [INFO] База данных инициализирована: prices.db
+2026-06-16 14:35:44,529 [INFO] Запуск VK Price Bot...
+2026-06-16 14:35:44,682 [INFO] Планировщик запущен (каждые 30 минут)
+2026-06-16 14:35:44,683 [INFO] Бот готов. Ожидаю сообщения...
+2026-06-16 14:35:54,245 [INFO] WB Selenium: запускаю браузер для https://www.wildberries.ru/catalog/577838676/detail.aspx
+2026-06-16 14:35:54,247 [INFO] ====== WebDriver manager ======
+2026-06-16 14:35:55,093 [INFO] Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 14:36:16,934 [WARNING] WB Selenium: страница не загрузилась за 20 секунд: https://www.wildberries.ru/catalog/577838676/detail.aspx
+2026-06-16 14:36:20,331 [WARNING] WB Selenium: не удалось найти h1 на странице
+2026-06-16 14:36:20,541 [WARNING] WB Selenium: цена не найдена, URL: https://www.wildberries.ru/catalog/577838676/detail.aspx
+2026-06-16 14:36:40,954 [INFO] OZON: запускаю браузер для https://ozon.ru/t/lwefFZp/
+2026-06-16 14:36:40,956 [INFO] ====== WebDriver manager ======
+2026-06-16 14:36:41,383 [INFO] Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 14:36:45,785 [INFO] OZON: 100% Genuine My Hero Academia-Mirko моя геройская  — 6581 ₽
+2026-06-16 14:40:37,907 [INFO] База данных инициализирована: prices.db
+2026-06-16 14:40:37,964 [INFO] Запуск VK Price Bot...
+2026-06-16 14:40:38,139 [INFO] Планировщик запущен (каждые 30 минут)
+2026-06-16 14:40:38,197 [INFO] Бот готов. Ожидаю сообщения...
+2026-06-16 14:40:48,078 [INFO] OZON: запускаю браузер для https://ozon.ru/t/lwefFZp/
+2026-06-16 14:40:48,080 [INFO] ====== WebDriver manager ======
+2026-06-16 14:40:48,572 [INFO] Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 14:40:54,882 [INFO] OZON: 100% Genuine My Hero Academia-Mirko моя геройская  — 6581 ₽
+2026-06-16 14:41:04,370 [INFO] WB Selenium: запускаю браузер для https://www.wildberries.ru/catalog/577838676/detail.aspx
+2026-06-16 14:41:04,382 [INFO] ====== WebDriver manager ======
+2026-06-16 14:41:04,796 [INFO] Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 14:41:26,080 [WARNING] WB Selenium: страница не загрузилась за 20 секунд: https://www.wildberries.ru/catalog/577838676/detail.aspx
+2026-06-16 14:41:26,426 [INFO] WB DEBUG: скриншот → wb_debug.png, HTML → wb_debug.html
+2026-06-16 14:41:29,103 [WARNING] WB Selenium: не удалось найти h1 на странице
+2026-06-16 14:41:29,279 [WARNING] WB Selenium: цена не найдена, URL: https://www.wildberries.ru/catalog/577838676/detail.aspx
+2026-06-16 14:45:25,134 [INFO] База данных инициализирована: prices.db
+2026-06-16 14:45:25,156 [INFO] Запуск VK Price Bot...
+2026-06-16 14:45:25,298 [INFO] Планировщик запущен (каждые 30 минут)
+2026-06-16 14:45:25,301 [INFO] Бот готов. Ожидаю сообщения...
+2026-06-16 14:45:34,775 [INFO] WB Selenium: запускаю браузер для https://www.wildberries.ru/catalog/577838676/detail.aspx
+2026-06-16 14:45:34,814 [INFO] ====== WebDriver manager ======
+2026-06-16 14:45:35,301 [INFO] Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 14:45:44,933 [INFO] WB Selenium: Фигурка Марин Китагава из аниме 'My Dress-Up Darli — 1837 ₽
+2026-06-16 14:51:37,739 [INFO] WB Selenium: запускаю браузер для https://www.wildberries.ru/catalog/577838676/detail.aspx
+2026-06-16 14:51:37,741 [INFO] ====== WebDriver manager ======
+2026-06-16 14:51:38,178 [INFO] Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 14:51:45,168 [INFO] WB Selenium: Фигурка Марин Китагава из аниме 'My Dress-Up Darli — 1837 ₽
+2026-06-16 14:57:43,492 [INFO] WB Selenium: запускаю браузер для https://www.wildberries.ru/catalog/577838676/detail.aspx
+2026-06-16 14:57:43,494 [INFO] ====== WebDriver manager ======
+2026-06-16 14:57:43,983 [INFO] Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 14:57:51,949 [INFO] WB Selenium: Фигурка Марин Китагава из аниме 'My Dress-Up Darli — 1837 ₽
+2026-06-16 15:02:14,902 [INFO] WB Selenium: запускаю браузер для https://www.wildberries.ru/catalog/577838676/detail.aspx
+2026-06-16 15:02:14,940 [INFO] ====== WebDriver manager ======
+2026-06-16 15:02:15,368 [INFO] Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 15:02:22,756 [INFO] WB Selenium: Фигурка Марин Китагава из аниме 'My Dress-Up Darli — 1837 ₽
+2026-06-16 19:52:47,893 [INFO] База данных инициализирована: prices.db
+2026-06-16 19:52:47,932 [INFO] Запуск VK Price Bot...
+2026-06-16 19:52:48,107 [INFO] Планировщик запущен (каждые 30 минут)
+2026-06-16 19:52:48,109 [INFO] Бот готов. Ожидаю сообщения...
+2026-06-16 19:54:20,720 [INFO] OZON: запускаю браузер для https://ozon.ru/t/1ER5WpA/
+2026-06-16 19:54:20,774 [INFO] ====== WebDriver manager ======
+2026-06-16 19:54:21,441 [INFO] Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 19:54:28,170 [INFO] OZON: Конструктор SPEED CHAMPIONS,76901 — 2636 ₽
+2026-06-16 19:59:23,288 [INFO] База данных инициализирована: prices.db
+2026-06-16 19:59:23,318 [INFO] Запуск VK Price Bot...
+2026-06-16 19:59:23,761 [INFO] Планировщик запущен (каждые 30 минут)
+2026-06-16 19:59:23,772 [INFO] Бот готов. Ожидаю сообщения...
+2026-06-17 03:53:23,866 [INFO] База данных инициализирована: prices.db
+2026-06-17 03:53:23,869 [INFO] Запуск VK Price Bot...
+2026-06-17 03:53:24,262 [INFO] Планировщик запущен (каждые 30 минут)
+2026-06-17 03:53:24,264 [INFO] Бот готов. Ожидаю сообщения...
+2026-06-17 03:53:28,090 [INFO] OZON: запускаю браузер для https://ozon.ru/t/1ER5WpA/
+2026-06-17 03:53:28,094 [INFO] ====== WebDriver manager ======
+2026-06-17 03:53:29,654 [INFO] Get LATEST chromedriver version for google-chrome
+2026-06-17 03:53:30,007 [INFO] There is no [win64] chromedriver "149.0.7827.155" for browser google-chrome "149.0.7827" in cache
+2026-06-17 03:53:30,438 [INFO] There is no [win64] chromedriver "149.0.7827.155" for browser google-chrome "149.0.7827" in cache
+2026-06-17 03:53:30,500 [INFO] Get LATEST chromedriver version for google-chrome
+2026-06-17 03:53:31,129 [INFO] WebDriver version 149.0.7827.155 selected
+2026-06-17 03:53:31,135 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win64/chromedriver-win64.zip
+2026-06-17 03:53:31,136 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win64/chromedriver-win64.zip
+2026-06-17 03:53:31,574 [INFO] Driver downloading response is 200
+2026-06-17 03:53:33,511 [INFO] Driver has been saved in cache [C:\Users\Admin\.wdm\drivers\chromedriver\win64\149.0.7827.155]
+2026-06-17 03:53:56,250 [WARNING] OZON: страница не загрузилась за 20 секунд: https://ozon.ru/t/1ER5WpA/
+2026-06-17 03:53:59,925 [WARNING] OZON: не удалось найти h1 на странице
+2026-06-17 03:53:59,987 [WARNING] OZON: цена не найдена, URL: https://ozon.ru/t/1ER5WpA/
+2026-06-17 03:54:02,141 [INFO] WB Selenium: запускаю браузер для https://www.wildberries.ru/catalog/577838676/detail.aspx
+2026-06-17 03:54:02,160 [INFO] ====== WebDriver manager ======
+2026-06-17 03:54:02,591 [INFO] Driver [C:\Users\Admin\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-17 03:54:14,260 [INFO] WB Selenium: Фигурка Марин Китагава из аниме 'My Dress-Up Darli — 1830 ₽
+2026-06-17 04:25:06,530 [INFO] База данных инициализирована: prices.db
+2026-06-17 04:25:06,575 [INFO] Запуск VK Price Bot...
+2026-06-17 04:25:07,021 [INFO] Планировщик запущен (каждые 30 минут)
+2026-06-17 04:25:07,070 [INFO] Бот готов. Ожидаю сообщения...
+2026-06-26 13:23:12,188 [INFO] База данных инициализирована: prices.db
+2026-06-26 13:23:12,214 [INFO] Запуск VK Price Bot...
+2026-06-26 13:23:12,443 [INFO] Планировщик запущен (каждые 30 минут)
+2026-06-26 13:23:12,464 [INFO] Бот готов. Ожидаю сообщения...

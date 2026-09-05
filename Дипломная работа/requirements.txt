@@ -1,0 +1,7 @@
+vk-api==11.9.9
+requests==2.31.0
+beautifulsoup4==4.12.3
+schedule==1.2.1
+lxml==5.1.0
+selenium==4.21.0
+webdriver-manager==4.0.1
